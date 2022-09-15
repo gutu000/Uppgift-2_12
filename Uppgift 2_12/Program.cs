@@ -16,7 +16,7 @@ namespace Uppgift_2._1
             int allt = dagtotal + kilometerpris + start;
 
             Console.WriteLine("Okej, det kommer kosta totalt " + allt);
-
+            // hej
             
         }
     }
